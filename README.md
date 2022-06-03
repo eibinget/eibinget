@@ -1,5 +1,5 @@
 Hi, there. My name is Tobias Eibinger. 
-I am a PhD studen at Graz University. 
+I am a PhD studen at Graz University, Economics Department. 
 My research interest lies in nonstationary macropanels, time series analysis and environmental economics.
 Also interested in Blockchain Technology from an institutional perspective.
 
